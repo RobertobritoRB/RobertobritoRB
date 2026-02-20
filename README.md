@@ -12,8 +12,6 @@ Passionate about technology and programming :heart:
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
-
 (https://github.com/RobertobritoRB)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
