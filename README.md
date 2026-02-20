@@ -1,8 +1,8 @@
 
 
 # Welcome!  
-                                                                                                                                                         ![Its Me Hello GIF](https://github.com/user-attachments/assets/23faa70c-0a90-48c1-ae8e-7c230fcb5828)
-
+                                                            ![Its Me Hello GIF](https://github.com/user-attachments/assets/e8094e5a-c3fd-403a-a7fe-989a8483ef35)
+              
 
 ## I'm Roberto! Let me introduce myself a little :D
 Beginner Full-Stack Developer focused on Python and HTML. Software Engineering student.
