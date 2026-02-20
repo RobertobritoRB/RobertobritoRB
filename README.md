@@ -1,4 +1,5 @@
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW44NzAxZTZzd2lmaXc4c3hsendpNnl5aHFrMnNkaTk1ZGp5bDdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EDGSznQA5kVCa0DfD/giphy.gif
+![Its Me Hello GIF](https://github.com/user-attachments/assets/567be441-dab1-454a-99f0-57cf803a49c2)
+
 # Welcome!
 
 ## I'm Roberto! Let me introduce myself a little :D
