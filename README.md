@@ -12,10 +12,10 @@ Passionate about technology and programming :heart:
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
+[![Github Badge]
 (https://github.com/RobertobritoRB)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
+[![Linkedin Badge]
 https://www.linkedin.com/in/roberto-filho-b27461348/
 
 - Thank you for visiting.
