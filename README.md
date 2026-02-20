@@ -1,6 +1,7 @@
 
 
-# Welcome!  ![Its Me Hello GIF](https://github.com/user-attachments/assets/6aa863ac-3dda-405c-b4d1-26566d9058b9)
+# Welcome!  
+                                                                                                                                                         ![Its Me Hello GIF](https://github.com/user-attachments/assets/23faa70c-0a90-48c1-ae8e-7c230fcb5828)
 
 
 ## I'm Roberto! Let me introduce myself a little :D
