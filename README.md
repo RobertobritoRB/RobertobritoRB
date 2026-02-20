@@ -1,4 +1,4 @@
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW44NzAxZTZzd2lmaXc4c3hsendpNnl5aHFrMnNkaTk1ZGp5bDdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EDGSznQA5kVCa0DfD/giphy.gif
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW44NzAxZTZzd2lmaXc4c3hsendpNnl5aHFrMnNkaTk1ZGp5bDdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EDGSznQA5kVCa0DfD/giphy.gif
 # Welcome!
 
 ## I'm Roberto! Let me introduce myself a little :D
