@@ -24,6 +24,8 @@ https://www.linkedin.com/in/roberto-filho-b27461348/
 
 - Enjoy!)
 
+![Cat Hello GIF](https://github.com/user-attachments/assets/a6f3cd31-d664-45a7-8f51-020c95772cd2)
+
 <!--
 **RobertobritoRB/RobertobritoRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
