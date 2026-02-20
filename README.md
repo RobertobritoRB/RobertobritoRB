@@ -2,7 +2,8 @@
 
 # Welcome!  
                                                           
-![Cat Hello GIF](https://github.com/user-attachments/assets/a6d0d6d3-0c03-4937-85ec-87842f8a91db)
+![Wave Hello GIF](https://github.com/user-attachments/assets/50c6e2c1-1caf-4476-b169-144b38f4ff2c)
+
 
               
 
